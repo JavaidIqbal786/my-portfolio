@@ -109,8 +109,8 @@ body {
   }
   
   .profile_image {
-    width: 550px;
-    height: fit-content;
+    width: 500px;
+    height: 500px;
     vertical-align: middle;
     margin: 5px;
   }
